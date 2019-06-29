@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>/hugo_example/ar/sitemap.xml</loc>
+	   	<loc>docs/ar/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/hugo_example/cn/sitemap.xml</loc>
+	   	<loc>docs/cn/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/hugo_example/en/sitemap.xml</loc>
+	   	<loc>docs/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
