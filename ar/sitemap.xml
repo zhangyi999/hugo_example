@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo_example/ar/nxtools/</loc>
+    <loc>./hugo_example/ar/nxtools/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/hugo_example/cn/nxtools/"
+                href="./hugo_example/cn/nxtools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo_example/en/nxtools/"
+                href="./hugo_example/en/nxtools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/hugo_example/ar/nxtools/"
+                href="./hugo_example/ar/nxtools/"
                 />
   </url>
   
   <url>
-    <loc>/hugo_example/ar/test/</loc>
+    <loc>./hugo_example/ar/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo_example/en/test/"
+                href="./hugo_example/en/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/hugo_example/cn/test/"
+                href="./hugo_example/cn/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/hugo_example/ar/test/"
+                href="./hugo_example/ar/test/"
                 />
   </url>
   
   <url>
-    <loc>/hugo_example/ar/categories/</loc>
+    <loc>./hugo_example/ar/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/hugo_example/cn/categories/"
+                href="./hugo_example/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo_example/en/categories/"
+                href="./hugo_example/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/hugo_example/ar/categories/"
+                href="./hugo_example/ar/categories/"
                 />
   </url>
   
   <url>
-    <loc>/hugo_example/ar/</loc>
+    <loc>./hugo_example/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo_example/en/"
+                href="./hugo_example/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/hugo_example/cn/"
+                href="./hugo_example/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/hugo_example/ar/"
+                href="./hugo_example/ar/"
                 />
   </url>
   
   <url>
-    <loc>/hugo_example/ar/tags/</loc>
+    <loc>./hugo_example/ar/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/hugo_example/cn/tags/"
+                href="./hugo_example/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo_example/en/tags/"
+                href="./hugo_example/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/hugo_example/ar/tags/"
+                href="./hugo_example/ar/tags/"
                 />
   </url>
   
